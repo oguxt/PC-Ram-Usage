@@ -1,0 +1,16 @@
+{
+  "name": "pc-ram-usage",
+  "version": "1.0.0",
+  "description": "Open source Pc Ram Usage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "Ram"
+  ],
+  "author": "Gustavo Matozo",
+  "license": "ISC"
+}
